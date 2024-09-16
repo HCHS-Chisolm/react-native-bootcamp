@@ -2,7 +2,7 @@
 
 > A series of **React Native coding challenges** with a variety of difficulties for busy developers.
 
-I do `react-native` as a freelance since 2017 and I have 15+ years of experience shipping products with `JavaScript`. This bootcamp encapsulates all the problems I encounter in my daily job and all the things I wish I knew **before** starting my career as a React Native Developer.
+This course is adapted from a freelance engineer, [David Leuliette](https://github.com/flexbox), who has used `react-native` since 2017 and has 15+ years of experience shipping products with `JavaScript`. This bootcamp encapsulates all the problems a `react-native` developer encounters in their daily job and all the things developers wish they knew **before** starting their career as a React Native Developer.
 
 My project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
@@ -16,19 +16,17 @@ My project-based pedagogy allows you to learn while building, a proven way for n
 
 ## Getting Started
 
-**Students**, to follow this bootcamp, you need to **[complete the onboarding form](https://davidl.fr/bootcamp)**.
+This fork is intended for use in [Mr. Chisolm's](https://github.com/mchisolm0) classroom. If you come across this bootcamp and are not my student, you may want the original by David [here](https://github.com/flexbox/react-native-bootcamp)
 
 Challenge after challenge, you are going to build this mobile appliction to buy Star Wars space ships using `TypeScript`, `expo`, `react-native` and `react-query`.
-
-> To support my work, I recommend downloading my [React Native Book about the ecosystem](https://gum.co/road-react-native).
 
 <img src="https://github.com/flexbox/react-native-bootcamp/raw/main/hackathon/spacecraft/spacecraft-preview.gif" width="50%" height="50%" />
 
 ## Pedagogy
 
-I have chosen two pedagogical tenets while building this curriculum: ensuring that it is hands-on **project-based**, with **up-to-date dependencies** and that it **includes frequent quizzes**. In addition, this curriculum has a common theme —create a mobile app with real API— to give it cohesion.
+There are two pedagogical tenets in this curriculum: ensuring that it is hands-on **project-based**, with **up-to-date dependencies** and that it **includes frequent quizzes**. In addition, this curriculum has a common theme —create a mobile app with real API— to give it cohesion.
 
-> If you encounter an issue, [feel free to contribute](https://github.com/flexbox/react-native-workshop/issues/new), I welcome your constructive feedback!
+> If you encounter an issue, [feel free to contribute](https://github.com/HCHS-Chisolm/react-native-workshop/issues/new), I welcome your constructive feedback!
 
 ## Each lesson includes
 
@@ -50,12 +48,8 @@ A list of projects done during the hackathon day:
 
 ## Community
 
-💬 Join us on [Slack](https://join.slack.com/t/infiniteredcommunity/shared_invite/zt-1f137np4h-zPTq_CbaRFUOR_glUFs2UA) to discuss.
-
-⭐️ Help us out by [starring on GitHub](https://github.com/flexbox/react-native-bootcamp), filing bug reports in [issues](https://github.com/flexbox/react-native-bootcamp/issues) with questions or proposals.
-
-👥 Follow `flexbox_` on [Twitter](https://twitter.com/intent/follow?screen_name=flexbox_) for more updates.
+⭐️ Help the creator out by [starring on GitHub](https://github.com/flexbox/react-native-bootcamp), filing bug reports in [issues](https://github.com/flexbox/react-native-bootcamp/issues) with questions or proposals.
 
 ## Was this helpful?
 
-☕️ [Leaving a tip helps me a lot!](https://github.com/sponsors/flexbox?frequency=one-time&sponsor=flexbox)
+☕️ [Leaving David a tip helps him a lot!](https://github.com/sponsors/flexbox?frequency=one-time&sponsor=flexbox)
