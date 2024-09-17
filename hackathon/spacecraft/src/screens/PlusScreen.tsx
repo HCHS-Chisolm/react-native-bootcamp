@@ -1,30 +1,43 @@
-import React from "react";
+import * as Application from "expo-application";
 import { View } from "react-native";
 import { List, Text } from "react-native-paper";
-import * as Application from "expo-application";
 
 import { ScreenContainer } from "~/components/ScreenContainer";
+import { useAuthentication } from "~/context/Authentication";
 import { Routes } from "~/navigation/Routes";
 
-interface Props {}
-
-export const PlusScreen = ({ navigation }: Props) => {
+export const PlusScreen = ({ navigation }: any) => {
   const navigateToDoYouLikeScreen = () => {
     navigation.navigate(Routes.DO_YOU_LIKE_SCREEN);
+  };
+
+  const { setUser } = useAuthentication();
+  const handleLogout = () => {
+    setUser(false);
   };
 
   return (
     <ScreenContainer title={"Plus"}>
       <View style={{ flex: 1 }}>
         <List.Item
-          title="Do you like Spacecraft?"
-          onPress={navigateToDoYouLikeScreen}
           left={(props) => (
             <List.Icon
               {...props}
               icon="star"
             />
           )}
+          onPress={navigateToDoYouLikeScreen}
+          title="Do you like Spacecraft?"
+        />
+        <List.Item
+          left={(props) => (
+            <List.Icon
+              {...props}
+              icon="logout"
+            />
+          )}
+          onPress={handleLogout}
+          title="Logout"
         />
       </View>
       <View
