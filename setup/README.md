@@ -60,6 +60,7 @@ Should output something like `/Applications/Xcode.app/Contents/Developer` if it'
 ## Smartphone Requirements
 
 - [ ] Create an [expo account](https://expo.dev/signup).
+  - [ ] Use the same email as your GitHub account.
 - [ ] Download **Expo GO** on your smartphone.
 - [ ] Log in with your Expo account on Expo Go.
 
@@ -70,6 +71,7 @@ You are going to follow a **Native Mobile Application Bootcamp**.
 ## Text Editor
 
 - [ ] Download and install [Visual Studio Code](https://code.visualstudio.com/).
+  - [x] Already installed on school Macs.
 
 <details>
 <summary>macOS</summary>
